@@ -1,4 +1,5 @@
-# Nifty 500 Momentum / Reversal and Trend Analyzer
+# Quantitative-Market-Analysis-Engine
+
 
 Streamlit app for an exploratory Indian equity market study across Nifty 50 or Nifty 500.
 
